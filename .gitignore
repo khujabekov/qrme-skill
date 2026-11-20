@@ -1,0 +1,11 @@
+# generated QR outputs
+*.png
+*.jpg
+
+# python
+__pycache__/
+*.pyc
+
+# os noise
+.DS_Store
+Thumbs.db
